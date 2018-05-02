@@ -1,0 +1,72 @@
+15:28:22 INFO [o.q.i.StdSchedulerFactory.instantiate:1184] Using default implementation for ThreadExecutor
+15:28:22 INFO [o.q.s.SimpleThreadPool.initialize:268] Job execution threads will use class loader of thread: RMI TCP Connection(6)-127.0.0.1
+15:28:22 INFO [o.q.c.SchedulerSignalerImpl.<init>:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+15:28:22 INFO [o.q.c.QuartzScheduler.<init>:240] Quartz Scheduler v.2.2.1 created.
+15:28:22 INFO [o.q.s.RAMJobStore.initialize:155] RAMJobStore initialized.
+15:28:22 INFO [o.q.c.QuartzScheduler.initialize:305] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+15:28:22 INFO [o.q.i.StdSchedulerFactory.instantiate:1339] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+15:28:22 INFO [o.q.i.StdSchedulerFactory.instantiate:1343] Quartz scheduler version: 2.2.1
+15:28:22 INFO [c.y.m.m.MonitorSettings.execute:51] Monitor_YiDao-----开始扫描----
+15:28:22 INFO [c.y.m.m.MonitorSettings.execute:53] 共有0条数据
+15:28:22 INFO [c.y.m.m.MonitorSettings.execute:114] 没有可以监控的任务------
+15:28:47 INFO [o.q.i.StdSchedulerFactory.instantiate:1184] Using default implementation for ThreadExecutor
+15:28:47 INFO [o.q.s.SimpleThreadPool.initialize:268] Job execution threads will use class loader of thread: RMI TCP Connection(9)-127.0.0.1
+15:28:47 INFO [o.q.c.SchedulerSignalerImpl.<init>:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+15:28:47 INFO [o.q.c.QuartzScheduler.<init>:240] Quartz Scheduler v.2.2.1 created.
+15:28:47 INFO [o.q.s.RAMJobStore.initialize:155] RAMJobStore initialized.
+15:28:47 INFO [o.q.c.QuartzScheduler.initialize:305] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+15:28:47 INFO [o.q.i.StdSchedulerFactory.instantiate:1339] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+15:28:47 INFO [o.q.i.StdSchedulerFactory.instantiate:1343] Quartz scheduler version: 2.2.1
+15:28:47 INFO [c.y.m.m.MonitorSettings.execute:51] Monitor_YiDao-----开始扫描----
+15:28:47 INFO [c.y.m.m.MonitorSettings.execute:53] 共有0条数据
+15:28:47 INFO [c.y.m.m.MonitorSettings.execute:114] 没有可以监控的任务------
+15:29:10 INFO [o.q.i.StdSchedulerFactory.instantiate:1184] Using default implementation for ThreadExecutor
+15:29:10 INFO [o.q.s.SimpleThreadPool.initialize:268] Job execution threads will use class loader of thread: RMI TCP Connection(12)-127.0.0.1
+15:29:10 INFO [o.q.c.SchedulerSignalerImpl.<init>:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+15:29:10 INFO [o.q.c.QuartzScheduler.<init>:240] Quartz Scheduler v.2.2.1 created.
+15:29:10 INFO [o.q.s.RAMJobStore.initialize:155] RAMJobStore initialized.
+15:29:10 INFO [o.q.c.QuartzScheduler.initialize:305] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+15:29:10 INFO [o.q.i.StdSchedulerFactory.instantiate:1339] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+15:29:10 INFO [o.q.i.StdSchedulerFactory.instantiate:1343] Quartz scheduler version: 2.2.1
+15:29:10 INFO [c.y.m.m.MonitorSettings.execute:51] Monitor_YiDao-----开始扫描----
+15:29:10 INFO [c.y.m.m.MonitorSettings.execute:53] 共有0条数据
+15:29:10 INFO [c.y.m.m.MonitorSettings.execute:114] 没有可以监控的任务------
+15:29:40 INFO [o.q.i.StdSchedulerFactory.instantiate:1184] Using default implementation for ThreadExecutor
+15:29:40 INFO [o.q.s.SimpleThreadPool.initialize:268] Job execution threads will use class loader of thread: RMI TCP Connection(17)-127.0.0.1
+15:29:40 INFO [o.q.c.SchedulerSignalerImpl.<init>:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+15:29:40 INFO [o.q.c.QuartzScheduler.<init>:240] Quartz Scheduler v.2.2.1 created.
+15:29:40 INFO [o.q.s.RAMJobStore.initialize:155] RAMJobStore initialized.
+15:29:40 INFO [o.q.c.QuartzScheduler.initialize:305] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+15:29:40 INFO [o.q.i.StdSchedulerFactory.instantiate:1339] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+15:29:40 INFO [o.q.i.StdSchedulerFactory.instantiate:1343] Quartz scheduler version: 2.2.1
+15:29:40 INFO [c.y.m.m.MonitorSettings.execute:51] Monitor_YiDao-----开始扫描----
+15:29:40 INFO [c.y.m.m.MonitorSettings.execute:53] 共有0条数据
+15:29:40 INFO [c.y.m.m.MonitorSettings.execute:114] 没有可以监控的任务------
